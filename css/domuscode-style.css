@@ -1,0 +1,41 @@
+.title-bg-gray h2, 
+.title-bg-gray h3{
+	background-color: #f9f9f9;
+}
+
+/* Use Nice Ampersand */
+span.amp {
+	font-family: 'Libre Baskerville', "Goudy Old Style","Palatino","Book Antiqua",serif;
+	font-size:90%;
+	font-style:italic;
+
+}
+
+/* Hero Image*/
+.hero-image {
+	background-image: url('../images/page/domuscode-main.jpg'); 
+	background-size: cover; 
+	background-position: center center;
+}
+
+.video-overlay {
+	background-color: rgba(0,0,0,0.55);
+}
+
+
+/* Hero Text */
+.main-text {
+	max-width: 700px; 
+	font-size: 40px; 
+	font-weight: 100;
+	text-transform: capitalize;
+}
+
+/* Max Width Fix */
+.max-width-800 {
+	max-width: 800px;
+}
+
+.max-width-850 {
+	max-width: 850px;
+}
